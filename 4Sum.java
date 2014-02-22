@@ -26,6 +26,6 @@ public class Solution {
                 target += num[i] + num[j];
             }
         }
-        return results;
+        return results;  
     }
 }
